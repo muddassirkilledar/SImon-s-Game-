@@ -1,5 +1,4 @@
-# Simon's Gaame 
-# Simon Game
+# Simon's Game
 
 This project is a web-based implementation of the classic Simon game, developed using **HTML**, **CSS**, and **JavaScript (jQuery)**. In this game, the player must follow a sequence of colors and repeat them in the correct order. As the player progresses, the sequence becomes increasingly longer and more challenging.
 
